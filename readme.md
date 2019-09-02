@@ -2,7 +2,7 @@
 
 API do Aion usando o framework Laravel 5.5 e o SGBD PostgreSQL
 
-SPA do projeto [aqui](http://github.com/urcamp/aion)
+SPA do projeto [aqui](http://github.com/ati-urcamp/aion)
 
 > Algumas consultas utilizada no projeto utilizam funções específicas do PostgreSQL. Se preferir usar outro SGBD, modificar as mesmas.
 
